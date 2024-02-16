@@ -1,6 +1,8 @@
 ### Hi there 👋
 My Name is Nayoung <br />
-I’m currently learning biomedical informatics 🧬💻
+I’m currently learning biomedical informatics 🧬💻 <br />
+I define myself as both a lifelong learner and an avid runner 📚🏃🏻‍♀️
+
 
 
 <!--
