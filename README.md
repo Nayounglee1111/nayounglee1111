@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Nayoung _
+My Name is Nayoung <br />
 I’m currently learning biomedical informatics 🧬💻
 
 
